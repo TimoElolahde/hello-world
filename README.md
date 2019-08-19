@@ -1,2 +1,3 @@
 # hello-world
-Timo tries to understand how to work with GitHub
+My name is Timo. I try to understand how to work with GitHub.
+A good start
